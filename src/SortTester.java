@@ -9,6 +9,7 @@ public class SortTester
     System.out.println("----------- EXPERIMENT A: confirming all three sorts -----------");
     confirmSorts(); // see code below
 */
+
 /*
     // EXPERIMENT B
     System.out.println("\n----------- EXPERIMENT B: printing details for array size of 8 -----------");
